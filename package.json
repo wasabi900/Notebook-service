@@ -1,0 +1,42 @@
+{
+  "name": "notebook-service-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@types/react-router-dom": "^4.3.1",
+    "@types/react-table": "^6.7.17",
+    "axios": "^0.18.0",
+    "jwt-decode": "^2.2.0",
+    "moment": "^2.22.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-bootstrap": "^0.32.4",
+    "react-datepicker": "^2.0.0",
+    "react-dom": "^16.6.3",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.1.1",
+    "react-select": "^2.1.2",
+    "react-split-pane": "^0.1.84",
+    "react-splitter-layout": "^3.0.1",
+    "react-table": "^6.8.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@types/react-bootstrap": "^0.32.14"
+  }
+}

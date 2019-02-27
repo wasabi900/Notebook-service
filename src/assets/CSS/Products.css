@@ -1,0 +1,73 @@
+.ReactTable {
+    width: 100%;
+    background-color: white;
+}
+
+.modal-container {
+    position: relative;
+  }
+
+.modal-container .modal, .modal-container .modal-backdrop {
+    position: absolute;
+}
+
+.ProductTextModal {
+    color: white;
+}
+
+.ProductInputTextField {
+    position: absolute;
+    left: 68px;
+}
+
+.TypeTop {
+    color: white !important;
+    margin-top: 25px;
+}
+
+.TypeTopInput {
+    position: absolute;
+    left: 68px;
+    margin-top: 25px;
+}
+
+.ClientModal {
+    color: white !important;
+    text-align: left !important;
+}
+
+.SubmitJobButton {
+    position: absolute;
+    left: 17px;
+    bottom:-47px;
+}
+
+.SelectBrandDropdown {
+    position: absolute;
+    left: 83px;
+    top: -5px;
+    height: 34px;
+    border-radius: 5px;
+}
+
+.AddBrandButton {
+    position: absolute;
+    left: 275px;
+    top: -5px;
+    color: black !important;
+}
+
+.ProductAlertMessage {
+    width: 30%;
+    position: absolute;
+    left: 300px;
+    bottom: -80px;
+}
+
+.addBrandAlertMessage {
+    margin-top: 15px !important;
+}
+
+.AddBrandButtonInModal{
+    margin-top:10px;
+}

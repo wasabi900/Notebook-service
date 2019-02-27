@@ -1,0 +1,48 @@
+.splitter-layout {
+    background-color: white;
+}
+
+.ReactTable {
+    width: 100%;
+}
+
+.ModificationInputJumbotron {
+    background-color: rgb(49,77,91) !important;
+    margin-bottom: 0px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+
+}
+
+.ModificationReactTableJumbotron {
+    background-color: rgb(49,77,91) !important;
+    padding-top: 20px !important;
+
+}
+
+.form-horizontal {
+    margin-top: 10px;
+    width: 95%;
+}
+
+.AddButton {
+    margin-left: 10px !important;
+    margin-top: 15px !important;
+}
+
+.ModificationInputFormHorizontal {
+    margin-left: 26px;
+}
+
+.ModificationInputRow {
+    margin-bottom: 10px;
+}
+
+.ModificationAlertMessage{
+    padding-left: 0px;
+}
+.ModificationAlertMessage>.alert {
+    width: 20%;
+    text-align: center;
+    margin-left: -8px;
+}

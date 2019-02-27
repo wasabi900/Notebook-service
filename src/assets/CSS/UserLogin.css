@@ -1,0 +1,70 @@
+.LoginModal.modal-sm {
+    position: fixed;
+    top:5%;
+}
+
+.LoginModal {
+    background-color: rgb(49,77,91);
+}
+
+.LoginModal.modal-header {
+    background-color: rgb(32, 51, 62);
+    color: white;
+    text-align: center;
+}
+
+.LoginModal.modal-body {
+    background-color: rgb(32, 51, 62);
+    text-align: center;
+}
+
+.LoginModal.modal-footer {
+    background-color: rgb(52,152,134);
+}
+
+input[type=username], input[type=password] {
+    background-color: rgb(49,77,91);
+    color: white;
+    margin: 16px 0;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    border: 2px solid rgb(37,58,71);
+    text-align: left; 
+}
+
+::placeholder{
+    text-align: center;
+}
+
+ Button[type=submit], Button[type=button]{
+    background-color: rgb(65, 190,168);
+    border: none;
+    text-align: center;
+    text-decoration: none;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.checkbox {
+    text-align: left;
+}
+
+.LoginButtonContainer {
+    text-align: center;
+}
+
+img.LoginLogo {
+    height: 200px;
+    width: 200px;
+}
+
+.LoginAlertMessage {
+    margin-right: 10px !important;
+}
+
+.form-group{
+    padding-left: 0px !important;
+}

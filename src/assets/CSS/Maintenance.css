@@ -1,0 +1,167 @@
+.ClientHeader {
+    font-size: 30px !important;
+    margin: 0 0 0 0;
+    background-color: rgb(52,152,134);
+    color: black !important;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom: solid rgb(229, 229, 229) 1px;
+}
+
+.MaintenanceHeader {
+    font-size: 30px !important;
+    margin: 0 0 0 0 ;
+    background-color: rgb(52,152,134);
+    color: black !important;
+    border-top-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-bottom: solid rgb(229, 229, 229) 1px;
+}
+
+.ClientJumbotronPadding {
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 20px;
+    background-color:rgb(32, 51, 62) !important;
+    width: 45%;
+    border-radius: 5px;
+}
+
+.MaintenanceJumbotronPadding {
+    padding-top: 0px !important;
+    padding-bottom: 20px !important;
+    margin-left: 20px;
+    margin-right: 60px;
+    margin-top: 30px;
+    background-color:  rgb(32, 51, 62) !important;
+    width: 45%;
+    border-radius: 5px;
+}
+.form-group>.control-label {
+    padding-left: 10px;
+}
+
+.MaintenanceParagraph {
+    background-color:  rgb(32, 51, 62) !important;
+}
+
+.MainServiceScreen {
+    display: flex;
+    background-color: rgb(49,77,91);
+}
+
+.form-group {
+    margin: 0 !important;
+    font-size: 17px;
+    color:  white;
+}
+.MaintenanceAddButton{
+    margin-left: 10px;
+}
+
+.MaintenanceEditButton{
+    margin-left: 10px;
+}
+
+.MaintenanceSplitter {
+    height: 300px !important;
+    background-color: rgb(49,77,91) !important;
+}
+
+ .InputFormGroup {
+    margin: 0 0 10px 0 !important;
+    color: white;
+    padding-left: 20px !important;
+} 
+
+.MaintenanceAlertMessage {
+    margin-top: 5px !important;
+}
+
+.FaultsInput {
+    display: inline-block !important;
+    width: 100% !important;
+    margin-top: 5px;
+}
+
+.BrandAndType {
+    text-align: left;
+}
+
+.Description {
+    text-align: left !important;
+}
+
+.SelectedModificationDropdown {
+    width: 100%;
+    color: black;
+    margin-top: 5px;
+}
+
+.SelectBrandDropdown {
+    color: gray;
+}
+
+.MaintenanceData {
+    margin-bottom: 10px !important;
+}
+
+.FaultHeader,.PriceHeader,.FaultData,.PriceData,.ModificationHeader,.ModificationData {
+    width: 30%;
+}
+
+.StartDateHeader,.StartDateData,.EndDateHeader,.EndDateData {
+    width: 30% !important;
+    text-align: left !important;
+}
+
+.ModificationsListItems {
+    text-align: left;
+}
+
+.DatePicker {
+    color: black;
+}
+
+.ReactTable.-striped.-highlight {
+    margin-right: 60px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    width: 92% !important;
+    border-radius: 5px;
+    background-color: rgb(32, 51, 62);
+    color: white;
+}
+
+.rt-tr-group {
+    background-color: rgb(32, 51, 62) !important;
+}
+
+.ReactTable .-pagination .-btn {
+    background-color: rgb(65,190,168);
+    color: white !important;
+}
+
+.rt-th {
+    background-color: rgb(52,152,134);
+}
+
+.ReactTable .-pagination input, .ReactTable .-pagination select {
+    background-color: rgb(49,77,91);
+}
+
+.SelectedProgressDropdown {
+    color: black;
+    margin-top: 5px;
+}
+
+.EditButton {
+    margin-top: 60px !important;
+}
+
+.alert {
+    margin-top: 10px !important;
+    text-align: center;
+}

@@ -1,0 +1,58 @@
+.container-fluid {
+    background-color:rgb(52,152,134);
+    border: 0;
+    border-bottom: solid rgb(229, 229, 229) 1px;
+}
+
+.custom-modal {
+    width: 50%;
+}
+
+.navbar.navbar-inverse.navbar-static-top {
+    border: 0;
+    padding: 0%;
+    margin: 0;
+}
+
+.dropdown-menu {
+    background-color:  rgb(62, 175, 154) !important;
+}
+
+.nav.navbar-nav li.dropdown.open a{
+    background-color: rgb(62, 175, 154) !important;
+}
+
+.nav.navbar-nav li a {
+    color: black !important;
+    text-decoration: none;
+}
+
+img.NavLogo.navbar-brand {
+    height: 50px;
+}
+
+span.navbar-brand {
+    padding-left: 30px;
+    padding-right: 50px;
+    color: black !important;
+}
+
+.navbar-nav span:hover {
+    background-color:  rgb(62, 175, 154)
+}
+
+.navbar-nav span[role=button] {
+    padding: 15px;
+    display: inline-block;
+    line-height: 20px;
+}
+
+.navbar-nav span[role=menuitem] {
+    padding: 3px 20px;
+    display: inline-block;
+    line-height: 20px;
+}
+
+.NavBarAddProductButton {
+    color: black;
+}

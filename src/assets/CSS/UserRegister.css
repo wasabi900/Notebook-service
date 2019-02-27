@@ -1,0 +1,64 @@
+.modal {
+    background-color: rgb(49,77,91);
+    }
+.modal-sm {
+    position: fixed;
+    top:0.25%;
+}
+.modal-header {
+    background-color: rgb(32, 51, 62);
+    color: white;
+    text-align: center;
+}
+
+.modal-body {
+    background-color: rgb(32, 51, 62);
+    text-align: center;
+}
+
+.modal-footer {
+    background-color: rgb(52,152,134);
+}
+
+input[type=password], input[type=userrole] {
+    background-color: rgb(49,77,91);
+    color: white;
+    margin: 16px 0;
+    width: 70%;
+    position: relative;
+    left: 15%;
+    border: 2px solid rgb(37,58,71);
+    text-align: left; 
+}
+
+::placeholder{
+    text-align: center;
+}
+
+Button[type=submit], Button[type=button]{
+    background-color: rgb(65, 190,168);
+    border: none;
+    text-align: center;
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+.checkbox {
+    text-align: left;
+}
+
+.RegisterButtonContainer {
+    text-align: center;
+}
+
+img.RegisterLogo {
+    height: 200px;
+    width: 200px;
+}
+
+.registerButton a {
+    text-decoration: none;
+    color: rgb(51, 51, 51);
+}
